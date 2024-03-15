@@ -1,2 +1,0 @@
-# Hair-Harbour
-A project
